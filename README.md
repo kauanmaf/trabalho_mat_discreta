@@ -1,5 +1,4 @@
-# Arvores Geradoras Mínimas
+# Trabalho A2 de Matemática Discreta
 
-Trabalho referente a matéria de Matemática Discreta, na qual foi explorado a aplicação computacional dos algoritmos clássicos para a solução de Árvores Geradoras Mínimas.
-Os três algoritmos discutidos e apresentados computacionalmente são: algoritmo de Prim, algoritmo de Borůvka e algoritmo de Kruskal. 
-No arquivo pdf temos a discussão dos pormenores de cada algoritmo e em cada arquivo jupiter temos a aplicação computacional do respectivo algoritmo.
+O presente trabalho refere-se a parte da Avaliação 2 da disciplina de Matemática Discreta do 4º período do curso de Matemática Aplicada da Escola de Matemática Aplicada (EMAp) da Fundação Getúlio Vargas (FGV) do Rio de Janeiro.  
+O mesmo se trata de árvores geradoras minimais e seus algoritmos de busca (Borůvka, Prim e Kruskal), cujos códigos e aplicações estão descritos nos notebooks deste repositório.
